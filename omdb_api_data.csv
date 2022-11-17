@@ -1,0 +1,459 @@
+,title,year,rated,genre,country,imdb_id,imdb_rating,imdb_votes,metascore
+0,Avengers: Endgame,2019.0,PG-13,Action,United States,tt4154796,8.4,1016281.0,78.0
+1,Pirates of the Caribbean: On Stranger Tides,2011.0,PG-13,Action,United States,tt1298650,6.6,507945.0,45.0
+2,Avengers: Age of Ultron,2015.0,PG-13,Action,United States,tt2395427,7.3,818321.0,66.0
+3,Avengers: Infinity War,2018.0,PG-13,Action,United States,tt4154756,8.4,983926.0,68.0
+4,Pirates of the Caribbean: At World's End,2007.0,PG-13,Action,United States,tt0449088,7.1,625898.0,50.0
+5,Justice League,2017.0,PG-13,Action,United States,tt0974015,6.1,435182.0,45.0
+6,Spectre,2015.0,PG-13,Action,United Kingdom,tt2379713,6.8,427340.0,60.0
+7,Solo: A Star Wars Story,2018.0,PG-13,Action,United States,tt3778644,6.9,325313.0,62.0
+8,John Carter,2012.0,PG-13,Action,United States,tt0401729,6.6,266927.0,51.0
+9,Batman v Superman: Dawn of Justice,2016.0,PG-13,Action,United States,tt2975590,6.4,677329.0,44.0
+10,The Lion King,1994.0,G,Animation,United States,tt0110357,8.5,1009313.0,88.0
+11,Tangled,2010.0,PG,Animation,United States,tt0398286,7.7,434708.0,71.0
+12,Spider-Man 3,2007.0,PG-13,Action,United States,tt0413300,6.2,563755.0,59.0
+13,Captain America: Civil War,2016.0,PG-13,Action,United States,tt3498820,7.8,740233.0,75.0
+14,Harry Potter and the Half-Blood Prince,2009.0,PG,Action,United Kingdom,tt0417741,7.6,520886.0,78.0
+15,The Hobbit: The Desolation of Smaug,2013.0,PG-13,Adventure,New Zealand,tt1170358,7.8,636058.0,66.0
+16,The Hobbit: The Battle of the Five Armies,2014.0,PG-13,Adventure,New Zealand,tt2310332,7.4,508303.0,59.0
+17,The Fate of the Furious,2017.0,PG-13,Action,China,tt4630562,6.6,224457.0,56.0
+18,No Time to Die,2021.0,PG-13,Action,United Kingdom,tt2382320,7.3,310313.0,68.0
+19,Avatar,2009.0,PG-13,Action,United States,tt0499549,7.8,1180827.0,83.0
+20,Superman Returns,2006.0,PG-13,Action,United States,tt0348150,6.0,279394.0,72.0
+21,The Dark Knight Rises,2012.0,PG-13,Action,United States,tt1345836,8.4,1617318.0,78.0
+22,Pirates of the Caribbean: Dead Men Tell No Tales,2017.0,PG-13,Action,United States,tt1790809,6.5,290845.0,39.0
+23,Quantum of Solace,2008.0,PG-13,Action,United Kingdom,tt0830515,6.6,438047.0,58.0
+24,The Avengers,2012.0,PG-13,Action,United States,tt0848228,8.0,1339955.0,69.0
+25,Pirates of the Caribbean: Dead Man's Chest,2006.0,PG-13,Action,United States,tt0383574,7.3,688569.0,53.0
+26,Man of Steel,2013.0,PG-13,Action,United States,tt0770828,7.0,744495.0,55.0
+27,The Chronicles of Narnia: Prince Caspian,2008.0,PG,Action,United States,tt0499448,6.5,205409.0,62.0
+28,The Lone Ranger,2013.0,PG-13,Action,United States,tt1210819,6.4,229863.0,37.0
+29,The Amazing Spider-Man,2012.0,PG-13,Action,United States,tt0948470,6.9,628181.0,66.0
+30,Battleship,2012.0,PG-13,Action,United States,tt1440129,5.8,243728.0,41.0
+31,Transformers: The Last Knight,2017.0,PG-13,Action,United States,tt3371366,5.2,146451.0,27.0
+32,Jurassic World,2015.0,PG-13,Action,United States,tt0369610,7.0,613911.0,59.0
+33,Men in Black 3,2012.0,PG-13,Action,United States,tt1409024,6.8,352778.0,58.0
+34,Transformers: Revenge of the Fallen,2009.0,PG-13,Action,United States,tt1055369,6.0,400143.0,35.0
+35,Transformers: Age of Extinction,2014.0,PG-13,Action,United States,tt2109248,5.6,308579.0,32.0
+36,X-Men: The Last Stand,2006.0,PG-13,Action,United States,tt0376994,6.7,504274.0,58.0
+37,Robin Hood,2010.0,PG-13,Action,United States,tt0955308,6.6,264337.0,53.0
+38,King Kong,2005.0,PG-13,Action,United States,tt0360717,7.2,413134.0,81.0
+39,The Golden Compass,2007.0,PG-13,Adventure,United Kingdom,tt0385752,6.1,185598.0,51.0
+40,Tenet,2020.0,PG-13,Action,United States,tt6723592,7.4,453758.0,69.0
+41,Spider-Man: No Way Home,2021.0,PG-13,Action,United States,tt10872600,8.7,473284.0,71.0
+42,Black Panther,2018.0,PG-13,Action,United States,tt1825683,7.3,707857.0,88.0
+43,Titanic,1997.0,PG-13,Drama,United States,tt0120338,7.8,1122277.0,75.0
+44,Incredibles 2,2018.0,PG,Animation,United States,tt3606756,7.6,279651.0,80.0
+45,Rogue One: A Star Wars Story,2016.0,PG-13,Action,United States,tt3748528,7.8,597163.0,65.0
+46,Finding Dory,2016.0,PG,Animation,United States,tt2277860,7.3,263464.0,77.0
+47,Toy Story 4,2019.0,G,Animation,United States,tt1979376,7.7,233374.0,84.0
+48,Toy Story 3,2010.0,G,Animation,United States,tt0435761,8.2,804234.0,92.0
+49,Iron Man 3,2013.0,PG-13,Action,United States,tt1300854,7.1,815122.0,62.0
+50,Guardians of the Galaxy Vol. 2,2017.0,PG-13,Action,United States,tt3896198,7.6,636391.0,67.0
+51,Spider-Man 2,2004.0,PG-13,Action,United States,tt0316654,7.4,622160.0,83.0
+52,Alice in Wonderland,2010.0,PG,Adventure,United States,tt1014759,6.4,403595.0,53.0
+53,Skyfall,2012.0,PG-13,Action,United Kingdom,tt1074638,7.8,680033.0,81.0
+54,The Hobbit: An Unexpected Journey,2012.0,PG-13,Adventure,New Zealand,tt0903624,7.8,797203.0,58.0
+55,Monsters University,2013.0,G,Animation,United States,tt1453405,7.2,346199.0,65.0
+56,Oz the Great and Powerful,2013.0,PG,Adventure,United States,tt1623205,6.3,205149.0,44.0
+57,X-Men: Days of Future Past,2014.0,PG-13,Action,United States,tt1877832,7.9,690755.0,75.0
+58,The Amazing Spider-Man 2,2014.0,PG-13,Action,United States,tt1872181,6.6,474218.0,53.0
+59,Cars 2,2011.0,G,Animation,United States,tt1216475,6.1,177835.0,57.0
+60,Black Widow,2021.0,PG-13,Action,United States,tt3480822,6.7,336789.0,67.0
+61,Fast & Furious Presents: Hobbs & Shaw,2019.0,PG-13,Action,United States,tt6806448,6.5,202441.0,60.0
+62,TRON: Legacy,2010.0,PG,Action,United States,tt1104001,6.8,328383.0,49.0
+63,2012,2009.0,PG-13,Action,United States,tt1190080,5.8,369555.0,49.0
+64,Eternals,2021.0,PG-13,Action,United States,tt9032400,6.4,250476.0,52.0
+65,Fantastic Beasts: The Crimes of Grindelwald,2018.0,PG-13,Adventure,United Kingdom,tt4123430,6.5,251813.0,52.0
+66,Terminator Salvation,2009.0,PG-13,Action,United States,tt0438488,6.5,355499.0,49.0
+67,Green Lantern,2011.0,PG-13,Action,United States,tt1133985,5.5,279642.0,39.0
+68,X-Men: Dark Phoenix,2019.0,PG-13,Action,United States,tt6565702,5.7,176559.0,43.0
+69,Onward,2020.0,PG,Animation,United States,tt7146812,7.4,136286.0,61.0
+70,Wonder Woman 1984,2020.0,PG-13,Action,United States,tt7126948,5.4,248384.0,60.0
+71,Mulan,1998.0,G,Animation,United States,tt0120762,7.7,276291.0,71.0
+72,Transformers: Dark of the Moon,2011.0,PG-13,Action,United States,tt1399103,6.2,399999.0,42.0
+73,The Mummy,1999.0,PG-13,Action,United States,tt0120616,7.1,415004.0,48.0
+74,Jack the Giant Slayer,2013.0,PG-13,Action,United States,tt1351685,6.2,136452.0,51.0
+75,Furious 7,2015.0,PG-13,Action,United States,tt2820852,7.1,380778.0,67.0
+76,Star Trek Into Darkness,2013.0,PG-13,Action,United States,tt1408101,7.7,477218.0,72.0
+77,World War Z,2013.0,PG-13,Action,United States,tt0816711,7.0,641204.0,63.0
+78,The Great Gatsby,2013.0,PG-13,Drama,Australia,tt1343092,7.2,520028.0,55.0
+79,Pacific Rim,2013.0,PG-13,Action,United States,tt1663662,6.9,488424.0,65.0
+80,The Matrix Resurrections,2021.0,R,Action,United States,tt10838180,5.7,199296.0,63.0
+81,The Good Dinosaur,2015.0,PG,Animation,United States,tt1979388,6.7,111167.0,66.0
+82,Iron Man,2008.0,PG-13,Action,United States,tt0371746,7.9,1013882.0,79.0
+83,The Dark Knight,2008.0,PG-13,Action,United States,tt0468569,9.0,2498955.0,84.0
+84,Indiana Jones and the Kingdom of the Crystal Skull,2008.0,PG-13,Action,United States,tt0367882,6.1,444583.0,65.0
+85,Brave,2012.0,PG,Animation,United States,tt1217209,7.1,396865.0,69.0
+86,Kong: Skull Island,2017.0,PG-13,Action,United States,tt3731562,6.6,306682.0,62.0
+87,Star Trek Beyond,2016.0,PG-13,Action,United States,tt2660888,7.0,240846.0,68.0
+88,Maleficent: Mistress of Evil,2019.0,PG,Adventure,United States,tt4777008,6.6,99336.0,43.0
+89,Blade Runner 2049,2017.0,R,Action,United States,tt1856101,8.0,529062.0,81.0
+90,Terminator: Dark Fate,2019.0,R,Action,United States,tt6450804,6.2,169395.0,54.0
+91,The Suicide Squad,2021.0,R,Action,United States,tt6334354,7.2,301230.0,72.0
+92,Aladdin,1992.0,G,Animation,United States,tt0103639,8.0,395426.0,86.0
+93,Thor: Ragnarok,2017.0,PG-13,Action,United States,tt3501632,7.9,681350.0,74.0
+94,Maleficent,2014.0,PG,Adventure,United States,tt1587310,7.0,365439.0,56.0
+95,Fantastic Beasts and Where to Find Them,2016.0,PG-13,Adventure,United Kingdom,tt3183660,7.3,443950.0,66.0
+96,WALL·E,2008.0,G,Animation,United States,tt0910970,8.4,1070747.0,95.0
+97,Rush Hour 3,2007.0,PG-13,Action,United States,tt0293564,6.2,162958.0,44.0
+98,The Legend of Tarzan,2016.0,PG-13,Action,United Kingdom,tt0918940,6.2,172871.0,44.0
+99,Hugo,2011.0,PG,Adventure,United States,tt0970179,7.5,317385.0,83.0
+100,Valerian and the City of a Thousand Planets,2017.0,PG-13,Action,France,tt2239822,6.5,176134.0,51.0
+101,Jupiter Ascending,2015.0,PG-13,Action,United States,tt1617661,5.3,186291.0,40.0
+102,Mission: Impossible - Fallout,2018.0,PG-13,Action,United States,tt4912910,7.7,317056.0,86.0
+103,X-Men: Apocalypse,2016.0,PG-13,Action,United States,tt3385516,6.9,419191.0,52.0
+104,The Meg,2018.0,PG-13,Action,United States,tt4779682,5.6,164794.0,46.0
+105,Edge of Tomorrow,2014.0,PG-13,Action,United States,tt1631867,7.9,648524.0,71.0
+106,Captain Marvel,2019.0,PG-13,Action,United States,tt4154664,6.8,521154.0,64.0
+107,The Jungle Book,2016.0,PG,Adventure,United Kingdom,tt3040964,7.4,271609.0,77.0
+108,Inside Out,2015.0,PG,Animation,United States,tt2096673,8.1,677013.0,94.0
+109,Spider-Man: Homecoming,2017.0,PG-13,Action,United States,tt2250912,7.4,612769.0,73.0
+110,Suicide Squad,2016.0,PG-13,Action,United States,tt1386697,5.9,664820.0,40.0
+111,Up,2009.0,PG,Animation,United States,tt1049413,8.2,999911.0,88.0
+112,Coco,2017.0,PG,Animation,United States,tt2380307,8.4,463490.0,81.0
+113,Ralph Breaks the Internet,2018.0,PG,Animation,United States,tt5848272,7.0,151269.0,71.0
+114,Monsters vs. Aliens,2009.0,PG,Animation,United States,tt0892782,6.4,157424.0,56.0
+115,Cars 3,2017.0,G,Animation,United States,tt3606752,6.7,90606.0,59.0
+116,G.I. Joe: The Rise of Cobra,2009.0,PG-13,Action,United States,tt1046173,5.8,206513.0,32.0
+117,Wild Wild West,1999.0,PG-13,Action,United States,tt0120891,4.9,158879.0,38.0
+118,The Mummy: Tomb of the Dragon Emperor,2008.0,PG-13,Action,United States,tt0859163,5.2,157745.0,31.0
+119,Evan Almighty,2007.0,PG,Comedy,United States,tt0413099,5.4,145223.0,37.0
+120,Waterworld,1995.0,PG-13,Action,United States,tt0114898,6.2,192122.0,56.0
+121,Dolittle,2020.0,PG,Adventure,United States,tt6673612,5.6,60213.0,26.0
+122,King Arthur: Legend of the Sword,2017.0,PG-13,Action,United Kingdom,tt1972591,6.7,209674.0,41.0
+123,47 Ronin,2013.0,PG-13,Action,United States,tt1335975,6.3,157106.0,28.0
+124,Jurassic World: Fallen Kingdom,2018.0,PG-13,Action,United States,tt4881806,6.2,292774.0,51.0
+125,Guardians of the Galaxy,2014.0,PG-13,Action,United States,tt2015381,8.0,1125493.0,76.0
+126,Iron Man 2,2010.0,PG-13,Action,United States,tt1228705,6.9,783302.0,57.0
+127,Captain America: The Winter Soldier,2014.0,PG-13,Action,United States,tt1843866,7.7,804411.0,70.0
+128,Dawn of the Planet of the Apes,2014.0,PG-13,Action,United States,tt2103281,7.6,429065.0,79.0
+129,The Polar Express,2004.0,G,Animation,United States,tt0338348,6.6,199731.0,61.0
+130,Snow White and the Huntsman,2012.0,PG-13,Action,United States,tt1735898,6.1,284231.0,57.0
+131,Terminator 3: Rise of the Machines,2003.0,R,Action,United States,tt0181852,6.3,391578.0,66.0
+132,Van Helsing,2004.0,PG-13,Action,United States,tt0338526,6.1,258843.0,35.0
+133,Dumbo,1941.0,G,Animation,United States,tt0033563,7.2,128394.0,96.0
+134,Godzilla: King of the Monsters,2019.0,PG-13,Action,United States,tt3741700,6.0,173313.0,48.0
+135,Tomorrowland,2015.0,PG,Action,United States,tt1964418,6.4,179774.0,60.0
+136,Alita: Battle Angel,2019.0,PG-13,Action,United States,tt0437086,7.3,255341.0,53.0
+137,Alice Through the Looking Glass,2016.0,PG,Adventure,United States,tt2567026,6.2,103310.0,34.0
+138,Shrek Forever After,2010.0,PG,Animation,United States,tt0892791,6.3,197397.0,58.0
+139,Doctor Strange,2016.0,PG-13,Action,United States,tt1211837,7.5,679926.0,72.0
+140,Big Hero 6,2014.0,PG,Animation,United States,tt2245084,7.8,441844.0,74.0
+141,How to Train Your Dragon,2010.0,PG,Animation,United States,tt0892769,8.1,711033.0,75.0
+142,Wreck-It Ralph,2012.0,PG,Animation,United States,tt1772341,7.7,406874.0,72.0
+143,Interstellar,2014.0,PG-13,Adventure,United States,tt0816692,8.6,1693580.0,74.0
+144,Dune,2021.0,PG-13,Action,United States,tt1160419,8.1,485797.0,74.0
+145,Independence Day: Resurgence,2016.0,PG-13,Action,United States,tt1628841,5.2,175473.0,32.0
+146,Beauty and the Beast,1991.0,G,Animation,United States,tt0101414,8.0,435358.0,95.0
+147,Spider-Man: Far from Home,2019.0,PG-13,Action,United States,tt6320628,7.4,444812.0,69.0
+148,Aquaman,2018.0,PG-13,Action,United States,tt1477834,6.9,432868.0,55.0
+149,Shrek the Third,2007.0,PG,Animation,United States,tt0413267,6.1,297457.0,58.0
+150,Inception,2010.0,PG-13,Action,United States,tt1375666,8.8,2238172.0,74.0
+151,The Hunger Games: Mockingjay - Part 2,2015.0,PG-13,Action,United States,tt1951266,6.6,312250.0,65.0
+152,Godzilla,2014.0,PG-13,Action,United States,tt0831387,6.4,404363.0,62.0
+153,X-Men: First Class,2011.0,PG-13,Action,United States,tt1270798,7.7,674447.0,65.0
+154,The Curious Case of Benjamin Button,2008.0,PG-13,Drama,United States,tt0421715,7.8,628815.0,70.0
+155,The Sorcerer's Apprentice,2010.0,PG,Action,United States,tt0963966,6.1,159560.0,46.0
+156,Poseidon,2006.0,PG-13,Action,United States,tt0409182,5.7,102953.0,50.0
+157,Warcraft,2016.0,PG-13,Action,China,tt0803096,6.8,257283.0,32.0
+158,The Irishman,2019.0,R,Biography,United States,tt1302006,7.8,364729.0,94.0
+159,Deepwater Horizon,2016.0,PG-13,Action,United States,tt1860357,7.1,164267.0,68.0
+160,Godzilla vs. Kong,2021.0,PG-13,Action,United States,tt5034838,6.4,192504.0,59.0
+161,Terminator Genisys,2015.0,PG-13,Action,United States,tt1340138,6.3,271831.0,38.0
+162,Pacific Rim: Uprising,2018.0,PG-13,Action,United Kingdom,tt2557478,5.6,114048.0,44.0
+163,Alexander,2004.0,R,Action,United States,tt0346491,5.6,167760.0,39.0
+164,War for the Planet of the Apes,2017.0,PG-13,Action,United States,tt3450958,7.4,245924.0,82.0
+165,Pearl Harbor,2001.0,PG-13,Action,United States,tt0213149,6.2,325553.0,44.0
+166,Transformers,2007.0,PG-13,Action,United States,tt0418279,7.0,621852.0,61.0
+167,Frozen II,2019.0,PG,Animation,United States,tt4520988,6.8,161102.0,64.0
+168,Wonder Woman,2017.0,PG-13,Action,United States,tt0451279,7.4,627944.0,76.0
+169,Frozen,2013.0,PG,Animation,United States,tt2294629,7.4,605423.0,75.0
+170,Zootopia,2016.0,PG,Animation,United States,tt2948356,8.0,474003.0,78.0
+171,Harry Potter and the Order of the Phoenix,2007.0,PG-13,Action,United Kingdom,tt0373889,7.5,556736.0,71.0
+172,Harry Potter and the Goblet of Fire,2005.0,PG-13,Adventure,United Kingdom,tt0330373,7.7,599363.0,81.0
+173,The Matrix Reloaded,2003.0,R,Action,United States,tt0234215,7.2,579866.0,62.0
+174,I Am Legend,2007.0,PG-13,Action,United States,tt0480249,7.2,729009.0,65.0
+175,Moana,2016.0,PG,Animation,United States,tt3521164,7.6,312091.0,81.0
+176,Hancock,2008.0,PG-13,Action,United States,tt0448157,6.4,468531.0,49.0
+177,Shang-Chi and the Legend of the Ten Rings,2021.0,PG-13,Action,United States,tt9376612,7.5,319763.0,71.0
+178,Charlie and the Chocolate Factory,2005.0,PG,Adventure,United States,tt0367594,6.6,459711.0,72.0
+179,Ratatouille,2007.0,G,Animation,United States,tt0382932,8.0,687711.0,96.0
+180,Thor: The Dark World,2013.0,PG-13,Action,United States,tt1981115,6.8,649810.0,54.0
+181,Batman Begins,2005.0,PG-13,Action,United States,tt0372784,8.2,1392519.0,70.0
+182,Mission: Impossible - Rogue Nation,2015.0,PG-13,Action,United States,tt2381249,7.4,361635.0,75.0
+183,Dunkirk,2017.0,PG-13,Action,United Kingdom,tt5013056,7.8,619722.0,94.0
+184,Thor,2011.0,PG-13,Action,United States,tt0800369,7.0,807716.0,57.0
+185,Madagascar: Escape 2 Africa,2008.0,PG,Animation,United States,tt0479952,6.6,219426.0,61.0
+186,X-Men Origins: Wolverine,2009.0,PG-13,Action,United States,tt0458525,6.6,490880.0,40.0
+187,Night at the Museum: Battle of the Smithsonian,2009.0,PG,Adventure,United States,tt1078912,6.0,190344.0,42.0
+188,Kung Fu Panda 2,2011.0,PG,Animation,United States,tt1302011,7.2,272589.0,67.0
+189,Mad Max: Fury Road,2015.0,R,Action,Australia,tt1392190,8.1,954987.0,90.0
+190,Pokémon Detective Pikachu,2019.0,PG,Action,United States,tt5884052,6.6,154753.0,53.0
+191,The Matrix Revolutions,2003.0,R,Action,United States,tt0242653,6.8,500661.0,47.0
+192,Ready Player One,2018.0,PG-13,Action,United States,tt1677720,7.4,414881.0,64.0
+193,Chicken Little,2005.0,G,Animation,United States,tt0371606,5.7,90479.0,48.0
+194,Mission: Impossible III,2006.0,PG-13,Action,United States,tt0317919,6.9,346775.0,66.0
+195,Angels & Demons,2009.0,PG-13,Action,United States,tt0808151,6.7,286805.0,48.0
+196,Troy,2004.0,R,Drama,United States,tt0332452,7.3,518001.0,56.0
+197,The Last Airbender,2010.0,PG,Action,United States,tt0938283,4.0,160678.0,20.0
+198,Bee Movie,2007.0,PG,Animation,United States,tt0389790,6.1,155405.0,54.0
+199,G-Force,2009.0,PG,Animation,United States,tt0436339,5.1,45666.0,41.0
+200,Bolt,2008.0,PG,Animation,United States,tt0397892,6.8,203679.0,67.0
+201,Encanto,2021.0,PG,Animation,United States,tt2953050,7.3,151991.0,75.0
+202,Wrath of the Titans,2012.0,PG-13,Action,United States,tt1646987,5.7,186991.0,37.0
+203,Beowulf,2007.0,PG-13,Animation,United States,tt0442933,6.2,166487.0,59.0
+204,Dark Shadows,2012.0,PG-13,Comedy,United States,tt1077368,6.2,260743.0,55.0
+205,White House Down,2013.0,PG-13,Action,United States,tt2334879,6.3,216968.0,52.0
+206,Space Jam: A New Legacy,2021.0,PG,Animation,United States,tt3554046,4.4,65000.0,36.0
+207,The Wolfman,2010.0,R,Drama,United States,tt0780653,5.8,105753.0,43.0
+208,The Great Wall,2016.0,PG-13,Action,United States,tt2034800,5.9,131602.0,42.0
+209,Pan,2015.0,PG,Adventure,United States,tt3332064,5.7,63157.0,36.0
+210,Mars Needs Moms,2010.0,PG,Animation,United States,tt1305591,5.4,22165.0,49.0
+211,Moonfall,2022.0,PG-13,Action,United States,tt5834426,5.3,9567.0,41.0
+212,Red Notice,2021.0,PG-13,Action,United States,tt7991608,6.3,235137.0,37.0
+213,Flushed Away,2006.0,PG,Animation,United Kingdom,tt0424095,6.6,121996.0,74.0
+214,Madagascar 3: Europe's Most Wanted,2012.0,PG,Animation,United States,tt1277953,6.8,175100.0,60.0
+215,Mission: Impossible - Ghost Protocol,2011.0,PG-13,Action,United States,tt1229238,7.4,477480.0,73.0
+216,How to Train Your Dragon 2,2014.0,PG,Animation,United States,tt1646971,7.8,323480.0,77.0
+217,Tarzan,1999.0,G,Animation,United States,tt0120855,7.3,218253.0,79.0
+218,Mr. Peabody & Sherman,2014.0,PG,Animation,United States,tt0864835,6.8,67951.0,59.0
+219,Rise of the Guardians,2012.0,PG,Animation,United States,tt1446192,7.3,169541.0,58.0
+220,Sahara,2005.0,PG-13,Action,United Kingdom,tt0318649,6.0,96697.0,41.0
+221,Ghostbusters,1984.0,PG,Action,United States,tt0087332,7.8,399999.0,71.0
+222,Die Another Day,2002.0,PG-13,Action,United Kingdom,tt0246460,6.1,215958.0,56.0
+223,Star Trek,2009.0,PG-13,Action,United States,tt0796366,7.9,595208.0,82.0
+224,Armageddon,1998.0,PG-13,Action,United States,tt0120591,6.7,415546.0,42.0
+225,Captain America: The First Avenger,2011.0,PG-13,Action,United States,tt0458339,6.9,808312.0,66.0
+226,Kung Fu Panda 3,2016.0,PG,Animation,United States,tt2267968,7.1,149852.0,66.0
+227,Lethal Weapon 4,1998.0,R,Action,United States,tt0122151,6.6,160242.0,37.0
+228,G.I. Joe: Retaliation,2013.0,PG-13,Action,United States,tt1583421,5.8,179801.0,41.0
+229,The Last Samurai,2003.0,R,Action,United States,tt0325710,7.7,424873.0,55.0
+230,Fun with Dick and Jane,2005.0,PG-13,Comedy,United States,tt0369441,6.2,142816.0,47.0
+231,Exodus: Gods and Kings,2014.0,PG-13,Action,United Kingdom,tt1528100,6.0,166100.0,52.0
+232,The BFG,2016.0,PG,Adventure,United States,tt3691740,6.4,83868.0,66.0
+233,Gemini Man,2019.0,PG-13,Action,China,tt1025100,5.7,108832.0,38.0
+234,Gods of Egypt,2016.0,PG-13,Action,United States,tt2404233,5.4,113787.0,25.0
+235,Spider-Man,2002.0,PG-13,Action,United States,tt0145487,7.3,782656.0,73.0
+236,Watchmen,2009.0,R,Action,United States,tt0409459,7.6,535136.0,56.0
+237,Stealth,2005.0,PG-13,Action,United States,tt0382992,5.1,53423.0,35.0
+238,The Incredible Hulk,2008.0,PG-13,Action,United States,tt0800080,6.6,470517.0,61.0
+239,Hulk,2003.0,PG-13,Action,United States,tt0286716,5.6,262822.0,54.0
+240,Final Fantasy: The Spirits Within,2001.0,PG-13,Animation,United States,tt0173840,6.4,81622.0,49.0
+241,The Twilight Saga: Breaking Dawn - Part 2,2012.0,PG-13,Adventure,United States,tt1673434,5.5,243304.0,52.0
+242,The Croods,2013.0,PG,Animation,United States,tt0481499,7.2,207752.0,55.0
+243,The Revenant,2015.0,R,Action,United States,tt1663202,8.0,766282.0,76.0
+244,The World Is Not Enough,1999.0,PG-13,Action,United Kingdom,tt0143145,6.4,197621.0,57.0
+245,Rango,2011.0,PG,Animation,United States,tt1192628,7.2,254593.0,75.0
+246,Master and Commander: The Far Side of the World,2003.0,PG-13,Action,United States,tt0311113,7.4,215406.0,81.0
+247,Turbo,2013.0,PG,Animation,United States,tt1860353,6.4,93018.0,58.0
+248,Teenage Mutant Ninja Turtles: Out of the Shadows,2016.0,PG-13,Action,United States,tt3949660,6.0,90818.0,40.0
+249,Happy Feet Two,2011.0,PG,Animation,Australia,tt1402488,5.9,44071.0,50.0
+250,Miami Vice,2006.0,R,Action,Germany,tt0430357,6.0,115164.0,66.0
+251,The Nutcracker and the Four Realms,2018.0,PG,Adventure,United States,tt5523010,5.6,32752.0,39.0
+252,War of the Worlds,2005.0,PG-13,Action,United States,tt0407304,6.5,435994.0,73.0
+253,Penguins of Madagascar,2014.0,PG,Animation,United States,tt1911658,6.7,87257.0,53.0
+254,The Hunger Games: Catching Fire,2013.0,PG-13,Action,United States,tt1951264,7.5,645744.0,76.0
+255,Harry Potter and the Prisoner of Azkaban,2004.0,PG,Adventure,United Kingdom,tt0304141,7.9,605899.0,82.0
+256,The Bourne Ultimatum,2007.0,PG-13,Action,United States,tt0440963,8.0,623551.0,85.0
+257,Ant-Man and the Wasp,2018.0,PG-13,Action,United States,tt5095030,7.0,369368.0,70.0
+258,Kung Fu Panda,2008.0,PG,Animation,United States,tt0441773,7.6,449875.0,74.0
+259,Ant-Man,2015.0,PG-13,Action,United States,tt0478970,7.3,631397.0,64.0
+260,Home,2015.0,PG,Animation,United States,tt2224026,6.6,99576.0,55.0
+261,Mary Poppins Returns,2018.0,PG,Adventure,United States,tt5028340,6.7,85584.0,66.0
+262,Puss in Boots,2011.0,PG,Animation,United States,tt0448694,6.6,153813.0,65.0
+263,Megamind,2010.0,PG,Animation,United States,tt1001526,7.3,248929.0,63.0
+264,Bad Boys II,2003.0,R,Action,United States,tt0172156,6.6,244675.0,38.0
+265,Rio 2,2014.0,G,Animation,United States,tt2357291,6.3,87430.0,49.0
+266,Salt,2010.0,PG-13,Action,United States,tt0944835,6.4,308713.0,65.0
+267,Noah,2014.0,PG-13,Action,United States,tt1959490,5.7,251755.0,68.0
+268,The Adventures of Tintin,2011.0,PG,Animation,United States,tt0983193,7.3,226942.0,68.0
+269,After Earth,2013.0,PG-13,Action,United States,tt1815862,4.8,198523.0,33.0
+270,Australia,2008.0,PG-13,Adventure,United Kingdom,tt0455824,6.6,123157.0,53.0
+271,R.I.P.D.,2013.0,PG-13,Action,United States,tt0790736,5.6,129203.0,25.0
+272,How to Train Your Dragon: The Hidden World,2019.0,PG,Animation,United States,tt2386490,7.5,120387.0,71.0
+273,The Twilight Saga: Breaking Dawn - Part 1,2011.0,PG-13,Adventure,United States,tt1324999,4.9,235178.0,45.0
+274,Dinosaur,2000.0,PG,Animation,United States,tt0130623,6.5,58689.0,56.0
+275,Logan,2017.0,R,Action,United States,tt3315342,8.1,715246.0,77.0
+276,Night at the Museum: Secret of the Tomb,2014.0,PG,Adventure,United Kingdom,tt2692250,6.2,117599.0,47.0
+277,The Hunger Games: Mockingjay - Part 1,2014.0,PG-13,Action,United States,tt1951265,6.6,440860.0,64.0
+278,Harry Potter and the Sorcerer's Stone,2001.0,PG,Adventure,United Kingdom,tt0241527,7.6,742056.0,65.0
+279,Jumanji: The Next Level,2019.0,PG-13,Action,United States,tt7975244,6.7,232090.0,58.0
+280,The Da Vinci Code,2006.0,PG-13,Mystery,United States,tt0382625,6.6,422402.0,46.0
+281,Fast Five,2011.0,PG-13,Action,United States,tt1596343,7.3,372439.0,66.0
+282,Teenage Mutant Ninja Turtles,2014.0,PG-13,Action,United States,tt1291150,5.8,207811.0,31.0
+283,Sherlock Holmes: A Game of Shadows,2011.0,PG-13,Action,United States,tt1515091,7.5,442312.0,48.0
+284,The Day After Tomorrow,2004.0,PG-13,Action,United States,tt0319262,6.4,437219.0,47.0
+285,The Boss Baby,2017.0,PG,Animation,United States,tt3874544,6.3,121321.0,50.0
+286,Clash of the Titans,2010.0,PG-13,Action,United States,tt0800320,5.8,278693.0,39.0
+287,Trolls,2016.0,PG,Animation,United States,tt1679335,6.5,79034.0,55.0
+288,Prometheus,2012.0,R,Adventure,United States,tt1446714,7.0,594373.0,64.0
+289,The Bourne Legacy,2012.0,PG-13,Action,United States,tt1194173,6.6,296812.0,61.0
+290,Batman & Robin,1997.0,PG-13,Action,United States,tt0118688,3.8,245476.0,28.0
+291,Skyscraper,2018.0,PG-13,Action,United States,tt5758778,5.8,118374.0,51.0
+292,The Call of the Wild,2020.0,PG,Adventure,Canada,tt7504726,6.8,46480.0,48.0
+293,Total Recall,1990.0,R,Action,United States,tt0100802,7.5,320748.0,57.0
+294,Assassin's Creed,2016.0,PG-13,Action,United States,tt2094766,5.7,195456.0,36.0
+295,Monster Trucks,2016.0,PG,Action,Canada,tt3095734,5.7,16793.0,41.0
+296,The 13th Warrior,1999.0,R,Action,United States,tt0120657,6.6,122450.0,42.0
+297,How the Grinch Stole Christmas,2000.0,PG,Comedy,United States,tt0170016,6.2,238560.0,46.0
+298,The Perfect Storm,2000.0,PG-13,Action,United States,tt0177971,6.4,164324.0,59.0
+299,Jason Bourne,2016.0,PG-13,Action,United States,tt4196776,6.6,221626.0,58.0
+300,Life of Pi,2012.0,PG,Adventure,United States,tt0454876,7.9,610934.0,79.0
+301,Ghost Rider,2007.0,PG-13,Action,United States,tt0259324,5.3,233415.0,35.0
+302,Rampage,2018.0,PG-13,Action,United States,tt2231461,6.1,160023.0,45.0
+303,Charlie's Angels: Full Throttle,2003.0,PG-13,Action,United States,tt0305357,4.9,126430.0,48.0
+304,Elysium,2013.0,R,Action,United States,tt1535108,6.6,438303.0,61.0
+305,Oblivion,2013.0,PG-13,Action,United States,tt1483013,7.0,509916.0,54.0
+306,Power Rangers,2017.0,PG-13,Action,United States,tt3717490,5.9,106269.0,44.0
+307,Uncharted,2022.0,PG-13,Action,United States,tt1464335,6.9,6308.0,42.0
+308,Stuart Little 2,2002.0,PG,Animation,United States,tt0243585,5.5,53268.0,66.0
+309,RoboCop,1987.0,R,Action,United States,tt0093870,7.6,249705.0,67.0
+310,The Chronicles of Riddick,2004.0,R,Action,United States,tt0296572,6.7,223823.0,38.0
+311,Speed Racer,2008.0,PG,Action,United States,tt0811080,6.0,72572.0,37.0
+312,The Island,2005.0,PG-13,Action,United States,tt0399201,6.8,311758.0,50.0
+313,Knight and Day,2010.0,PG-13,Action,United States,tt1013743,6.3,190704.0,46.0
+314,Venom,2018.0,PG-13,Action,United States,tt1270797,6.7,454983.0,35.0
+315,"Monsters, Inc.",2001.0,G,Animation,United States,tt0198781,8.1,871223.0,79.0
+316,The Wolverine,2013.0,PG-13,Action,United States,tt1430132,6.7,451941.0,61.0
+317,Dante's Peak,1997.0,PG-13,Action,United States,tt0118928,6.0,88730.0,43.0
+318,The Huntsman: Winter's War,2016.0,PG-13,Action,United States,tt2381991,6.1,106863.0,35.0
+319,Windtalkers,2002.0,R,Action,United States,tt0245562,6.1,68171.0,51.0
+320,Gulliver's Travels,2010.0,PG,Adventure,United States,tt1320261,4.9,68621.0,33.0
+321,Ferdinand,2017.0,PG,Animation,United States,tt3411444,6.8,54804.0,58.0
+322,Deadpool 2,2018.0,R,Action,United States,tt5463162,7.7,542207.0,66.0
+323,Gravity,2013.0,PG-13,Action,United Kingdom,tt1454468,7.7,805792.0,96.0
+324,Night at the Museum,2006.0,PG,Adventure,United States,tt0477347,6.4,335874.0,48.0
+325,Venom: Let There Be Carnage,2021.0,PG-13,Action,United States,tt7097896,6.0,175561.0,49.0
+326,San Andreas,2015.0,PG-13,Action,United States,tt2126355,6.1,229545.0,43.0
+327,The Smurfs,2011.0,PG,Animation,United States,tt0472181,5.4,88423.0,30.0
+328,Live Free or Die Hard,2007.0,PG-13,Action,United States,tt0337978,7.1,400793.0,69.0
+329,The Divergent Series: Insurgent,2015.0,PG-13,Action,United States,tt2908446,6.2,231213.0,42.0
+330,Ocean's Twelve,2004.0,PG-13,Crime,United States,tt0349903,6.5,379263.0,58.0
+331,Tomorrow Never Dies,1997.0,PG-13,Action,United Kingdom,tt0120347,6.5,190930.0,52.0
+332,The Patriot,2000.0,R,Action,United States,tt0187393,7.2,267507.0,63.0
+333,300: Rise of an Empire,2014.0,R,Action,United States,tt1253863,6.2,293491.0,48.0
+334,The Aviator,2004.0,PG-13,Biography,United States,tt0338751,7.5,352259.0,77.0
+335,Passengers,2016.0,PG-13,Drama,United States,tt1355644,7.0,385575.0,41.0
+336,The Green Hornet,2011.0,PG-13,Action,United States,tt0990407,5.8,159320.0,39.0
+337,Miss Peregrine's Home for Peculiar Children,2016.0,PG-13,Adventure,United States,tt1935859,6.7,167076.0,57.0
+338,Real Steel,2011.0,PG-13,Action,United States,tt0433035,7.0,317848.0,56.0
+339,Men in Black: International,2019.0,PG-13,Action,China,tt2283336,5.6,128004.0,38.0
+340,The A-Team,2010.0,PG-13,Action,United States,tt0429493,6.7,255428.0,47.0
+341,The Smurfs 2,2013.0,PG,Animation,United States,tt2017020,5.3,41034.0,34.0
+342,Ender's Game,2013.0,PG-13,Action,United States,tt1731141,6.6,235356.0,51.0
+343,Home on the Range,2004.0,PG,Animation,United States,tt0299172,5.4,22502.0,50.0
+344,Speed 2: Cruise Control,1997.0,PG-13,Action,United States,tt0120179,3.9,79762.0,23.0
+345,Kingdom of Heaven,2005.0,R,Action,United Kingdom,tt0320661,7.2,281062.0,63.0
+346,Ghost in the Shell,2017.0,PG-13,Action,United States,tt1219827,6.3,209807.0,52.0
+347,Around the World in 80 Days,2004.0,PG,Action,United States,tt0327437,5.9,88752.0,49.0
+348,Ali,2001.0,R,Biography,United States,tt0248667,6.8,97724.0,65.0
+349,The Martian,2015.0,PG-13,Adventure,United States,tt3659388,8.0,818536.0,80.0
+350,Allied,2016.0,R,Action,United Kingdom,tt3640424,7.1,152330.0,60.0
+351,"I, Robot",2004.0,PG-13,Action,United States,tt0343818,7.1,525495.0,59.0
+352,Stuart Little,1999.0,PG,Adventure,Germany,tt0164912,5.9,131901.0,61.0
+353,The Princess and the Frog,2009.0,G,Animation,United States,tt0780521,7.1,137228.0,73.0
+354,"10,000 BC",2008.0,PG-13,Action,United States,tt0443649,5.1,129410.0,34.0
+355,Town & Country,2001.0,R,Comedy,United States,tt0141907,4.5,4944.0,34.0
+356,Kingsman: The Golden Circle,2017.0,R,Action,United Kingdom,tt4649466,6.7,309253.0,44.0
+357,Gone in 60 Seconds,2000.0,PG-13,Action,United States,tt0187078,6.5,272435.0,35.0
+358,Gladiator,2000.0,R,Action,United States,tt0172495,8.5,1436910.0,67.0
+359,A Wrinkle in Time,2018.0,PG,Adventure,United States,tt1620680,4.2,44073.0,53.0
+360,Public Enemies,2009.0,R,Action,United States,tt1152836,7.0,294432.0,70.0
+361,Casino Royale,2006.0,PG-13,Action,United Kingdom,tt0381061,8.0,638723.0,80.0
+362,Minority Report,2002.0,PG-13,Action,United States,tt0181689,7.6,536245.0,80.0
+363,Bumblebee,2018.0,PG-13,Action,China,tt4701182,6.7,156585.0,66.0
+364,Cloud Atlas,2012.0,R,Drama,United States,tt1371111,7.4,357770.0,55.0
+365,Harry Potter and the Chamber of Secrets,2002.0,PG,Adventure,United Kingdom,tt0295297,7.5,606693.0,63.0
+366,Terminator 2: Judgment Day,1991.0,R,Action,United States,tt0103064,8.5,1056978.0,75.0
+367,Batman Forever,1995.0,PG-13,Action,United States,tt0112462,5.4,245528.0,51.0
+368,Planet of the Apes,2001.0,PG-13,Action,United States,tt0133152,5.7,217008.0,50.0
+369,National Treasure,2004.0,PG,Action,United States,tt0368891,6.9,321524.0,39.0
+370,Django Unchained,2012.0,R,Drama,United States,tt1853728,8.4,1472529.0,81.0
+371,1917,2019.0,R,Action,United Kingdom,tt8579674,8.3,533349.0,78.0
+372,Little Fockers,2010.0,PG-13,Comedy,United States,tt0970866,5.5,111035.0,27.0
+373,True Lies,1994.0,R,Action,United States,tt0111503,7.2,251598.0,63.0
+374,American Gangster,2007.0,R,Biography,United States,tt0765429,7.8,415388.0,76.0
+375,Cloudy with a Chance of Meatballs,2009.0,PG,Animation,United States,tt0844471,6.9,223049.0,66.0
+376,The Other Guys,2010.0,PG-13,Action,United States,tt1386588,6.7,258986.0,64.0
+377,The Wolf of Wall Street,2013.0,R,Biography,United States,tt0993846,8.2,1317486.0,75.0
+378,Epic,2013.0,PG,Animation,United States,tt0848537,6.6,103766.0,52.0
+379,Eraser,1996.0,R,Action,United States,tt0116213,6.1,108934.0,56.0
+380,The Hunchback of Notre Dame,1996.0,G,Animation,United States,tt0116583,7.0,151972.0,74.0
+381,The Emperor's New Groove,2000.0,G,Animation,United States,tt0120917,7.4,195606.0,70.0
+382,The Expendables 2,2012.0,R,Action,United States,tt1764651,6.6,302528.0,51.0
+383,Where the Wild Things Are,2009.0,PG,Adventure,Germany,tt0386117,6.7,103734.0,71.0
+384,Eragon,2006.0,PG,Action,United States,tt0449010,5.1,125331.0,38.0
+385,Hercules,1997.0,G,Animation,United States,tt0119282,7.3,221888.0,74.0
+386,The Tourist,2010.0,PG-13,Action,United States,tt1243957,6.0,236122.0,37.0
+387,End of Days,1999.0,R,Action,United States,tt0146675,5.8,109383.0,33.0
+388,Spies in Disguise,2019.0,PG,Animation,United States,tt5814534,6.8,45238.0,54.0
+389,The Stepford Wives,2004.0,PG-13,Comedy,United States,tt0327162,5.3,64963.0,42.0
+390,Surf's Up,2007.0,PG,Animation,United States,tt0423294,6.7,76551.0,64.0
+391,Blood Diamond,2006.0,R,Adventure,United States,tt0450259,8.0,530624.0,64.0
+392,Midway,2019.0,PG-13,Action,United States,tt6924650,6.7,80400.0,47.0
+393,Legend of the Guardians: The Owls of Ga'Hoole,2010.0,PG,Animation,United States,tt1219342,6.9,82073.0,53.0
+394,Starship Troopers,1997.0,R,Action,United States,tt0120201,7.2,285565.0,51.0
+395,Land of the Lost,2009.0,PG-13,Action,United States,tt0457400,5.3,69618.0,32.0
+396,Peter Pan,1953.0,G,Animation,United States,tt0046183,7.3,135539.0,76.0
+397,Wonder Park,2019.0,PG,Animation,Spain,tt6428676,5.9,11651.0,45.0
+398,Catwoman,2004.0,PG-13,Action,United States,tt0327554,3.4,116749.0,27.0
+399,The Expendables 3,2014.0,PG-13,Action,France,tt2333784,6.1,178353.0,35.0
+400,Treasure Planet,2002.0,PG,Animation,United States,tt0133240,7.2,112709.0,60.0
+401,West Side Story,1961.0,Approved,Crime,United States,tt0055614,7.5,108909.0,86.0
+402,The King's Man,2021.0,R,Action,United Kingdom,tt6856242,6.4,62919.0,44.0
+403,Green Zone,2010.0,R,Action,United Kingdom,tt0947810,6.8,135847.0,63.0
+404,Geostorm,2017.0,PG-13,Action,United States,tt1981128,5.3,104292.0,21.0
+405,Point Break,1991.0,R,Action,United States,tt0102685,7.3,175095.0,58.0
+406,Cats,2019.0,PG,Comedy,United Kingdom,tt5697572,2.7,49133.0,32.0
+407,In the Heart of the Sea,2015.0,PG-13,Action,United States,tt1390411,6.9,133941.0,47.0
+408,Transcendence,2014.0,PG-13,Action,United Kingdom,tt2209764,6.2,224809.0,42.0
+409,Son of the Mask,2005.0,PG,Comedy,United States,tt0362165,2.2,55440.0,20.0
+410,Mortal Engines,2018.0,PG-13,Action,United States,tt1571234,6.1,121590.0,44.0
+411,Chaos Walking,2021.0,PG-13,Action,United States,tt2076822,5.8,40666.0,38.0
+412,The Last Duel,2021.0,R,Action,United Kingdom,tt4244994,7.4,120723.0,67.0
+413,The Adventures of Pluto Nash,2002.0,PG-13,Action,United States,tt0180052,3.8,25592.0,12.0
+414,Artemis Fowl,2020.0,PG,Adventure,United States,tt3089630,4.2,26982.0,31.0
+415,The Peanuts Movie,2015.0,G,Animation,United States,tt2452042,7.1,44990.0,67.0
+416,The Lego Movie 2: The Second Part,2019.0,PG,Animation,Denmark,tt3513498,6.6,62673.0,65.0
+417,The Mummy Returns,2001.0,PG-13,Action,United States,tt0209163,6.4,315843.0,48.0
+418,Gangs of New York,2002.0,R,Crime,United States,tt0217505,7.5,429988.0,72.0
+419,Alien: Covenant,2017.0,R,Horror,United States,tt2316204,6.4,271471.0,65.0
+420,Cinderella,2015.0,PG,Adventure,United States,tt1661199,6.9,172510.0,67.0
+421,Black Hawk Down,2001.0,R,Action,United States,tt0265086,7.7,385342.0,74.0
+422,Sex and the City 2,2010.0,R,Comedy,United States,tt1261945,4.5,78701.0,27.0
+423,Percy Jackson & the Olympians: The Lightning Thief,2010.0,PG,Adventure,United Kingdom,tt0814255,5.9,185084.0,47.0
+424,The Campaign,2012.0,R,Comedy,United States,tt1790886,6.1,129986.0,50.0
+425,Unstoppable,2010.0,PG-13,Action,United States,tt0477080,6.8,193734.0,69.0
+426,The Fifth Element,1997.0,PG-13,Action,France,tt0119116,7.7,459167.0,52.0
+427,The Road to El Dorado,2000.0,PG,Animation,United States,tt0138749,6.9,92723.0,51.0
+428,The Lovely Bones,2009.0,PG-13,Drama,United States,tt0380510,6.7,166621.0,42.0
+429,Ben-Hur,1959.0,G,Adventure,United States,tt0052618,8.1,233022.0,90.0
+430,Seventh Son,2014.0,PG-13,Action,United States,tt1121096,5.5,75404.0,30.0
+431,Finding Nemo,2003.0,G,Animation,United States,tt0266543,8.1,1005985.0,90.0
+432,The Lord of the Rings: The Return of the King,2003.0,PG-13,Action,New Zealand,tt0167260,8.9,1756615.0,94.0
+433,The Lord of the Rings: The Two Towers,2002.0,PG,Action,New Zealand,tt0167261,8.7,1587124.0,87.0
+434,Lara Croft: Tomb Raider,2001.0,PG-13,Action,United States,tt0146316,5.8,206456.0,33.0
+435,Kingsman: The Secret Service,2014.0,R,Action,United Kingdom,tt2802144,7.7,639755.0,60.0
+436,The Lord of the Rings: The Fellowship of the Ring,2001.0,PG-13,Action,New Zealand,tt0120737,8.8,1778458.0,92.0
+437,Jurassic Park III,2001.0,PG-13,Action,United States,tt0163025,5.9,310368.0,42.0
+438,Rise of the Planet of the Apes,2011.0,PG-13,Action,United States,tt1318514,7.5,515144.0,68.0
+439,The Spiderwick Chronicles,2008.0,PG,Action,United States,tt0416236,6.5,93777.0,62.0
+440,The Incredibles,2004.0,PG,Animation,United States,tt0317705,8.0,696720.0,90.0
+441,A Good Day to Die Hard,2013.0,R,Action,United States,tt1606378,5.3,204889.0,28.0
+442,The Alamo,2004.0,PG-13,Drama,United States,tt0318974,6.0,20772.0,47.0
+443,Cutthroat Island,1995.0,PG-13,Action,France,tt0112760,5.7,27686.0,37.0
+444,The Secret Life of Walter Mitty,2013.0,PG,Adventure,United States,tt0359950,7.3,308565.0,54.0
+445,Jumanji: Welcome to the Jungle,2017.0,PG-13,Action,United States,tt2283362,6.9,358678.0,58.0
+446,Men in Black,1997.0,PG-13,Action,United States,tt0119654,7.3,548614.0,71.0
+447,Toy Story 2,1999.0,G,Animation,United States,tt0120363,7.9,560453.0,88.0
+448,Rush Hour 2,2001.0,PG-13,Action,Hong Kong,tt0266915,6.6,213016.0,48.0
+449,Sherlock Holmes,2009.0,PG-13,Action,United States,tt0988045,7.6,613925.0,57.0
+450,Bad Boys for Life,2020.0,R,Action,United States,tt1502397,6.5,152216.0,59.0
+451,What Lies Beneath,2000.0,PG-13,Drama,United States,tt0161081,6.6,123788.0,51.0
+452,Sonic the Hedgehog,2020.0,PG,Action,United States,tt3794354,6.5,114913.0,47.0
+453,Rio,2011.0,PG,Animation,United States,tt1436562,6.9,220585.0,63.0
+454,Once Upon a Time... In Hollywood,2019.0,R,Comedy,United States,tt7131622,7.6,671685.0,83.0
+455,The Departed,2006.0,R,Crime,United States,tt0407887,8.5,1269602.0,85.0
+456,Charlie's Angels,2000.0,PG-13,Action,United States,tt0160127,5.6,184428.0,52.0
+457,Tropic Thunder,2008.0,R,Action,United States,tt0942385,7.0,401689.0,71.0
