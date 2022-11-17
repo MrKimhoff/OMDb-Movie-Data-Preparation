@@ -8,7 +8,7 @@ This project uses the Python programming language to clean and prepare movie dat
 The purpose of this project is to prepare a cleaned dataset so that it could be used to train a machine learning model.
 
 ### Methods Used
-* Machine Leanring
+* Machine Learning
 * Data Visualizaiton
 * Summary Statistics
 
